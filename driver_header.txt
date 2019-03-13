@@ -1,0 +1,9 @@
+//GROVE_NAME        "iTRIANGLE - Button"
+//SKU               1804010001
+//IF_TYPE           GPIO
+//IMAGE_URL         http://en.itriangle.cz/wiki/180401001/180401001_small.png
+//DESCRIPTION       "Momentary push button. Signal high (1) when pressed , otherwise low (0)."
+//WIKI_URL          http://en.itriangle.cz/wiki/180401001
+//ADDED_AT          "2018-04-01"
+//AUTHOR            "BOXED"
+//BUYURL            http://en.itriangle.cz/shop/180401001
